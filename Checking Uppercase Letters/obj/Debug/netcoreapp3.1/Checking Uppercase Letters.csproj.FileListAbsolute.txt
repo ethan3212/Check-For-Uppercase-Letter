@@ -1,0 +1,13 @@
+C:\Users\ethan\source\repos\Checking Uppercase Letters\obj\Debug\netcoreapp3.1\Checking Uppercase Letters.AssemblyInfoInputs.cache
+C:\Users\ethan\source\repos\Checking Uppercase Letters\obj\Debug\netcoreapp3.1\Checking Uppercase Letters.AssemblyInfo.cs
+C:\Users\ethan\source\repos\Checking Uppercase Letters\obj\Debug\netcoreapp3.1\Checking Uppercase Letters.csproj.CoreCompileInputs.cache
+C:\Users\ethan\source\repos\Checking Uppercase Letters\bin\Debug\netcoreapp3.1\Checking Uppercase Letters.exe
+C:\Users\ethan\source\repos\Checking Uppercase Letters\bin\Debug\netcoreapp3.1\Checking Uppercase Letters.deps.json
+C:\Users\ethan\source\repos\Checking Uppercase Letters\bin\Debug\netcoreapp3.1\Checking Uppercase Letters.runtimeconfig.json
+C:\Users\ethan\source\repos\Checking Uppercase Letters\bin\Debug\netcoreapp3.1\Checking Uppercase Letters.runtimeconfig.dev.json
+C:\Users\ethan\source\repos\Checking Uppercase Letters\bin\Debug\netcoreapp3.1\Checking Uppercase Letters.dll
+C:\Users\ethan\source\repos\Checking Uppercase Letters\bin\Debug\netcoreapp3.1\Checking Uppercase Letters.pdb
+C:\Users\ethan\source\repos\Checking Uppercase Letters\obj\Debug\netcoreapp3.1\Checking Uppercase Letters.dll
+C:\Users\ethan\source\repos\Checking Uppercase Letters\obj\Debug\netcoreapp3.1\Checking Uppercase Letters.pdb
+C:\Users\ethan\source\repos\Checking Uppercase Letters\obj\Debug\netcoreapp3.1\Checking Uppercase Letters.genruntimeconfig.cache
+C:\Users\ethan\source\repos\Checking Uppercase Letters\obj\Debug\netcoreapp3.1\Checking Uppercase Letters.GeneratedMSBuildEditorConfig.editorconfig
